@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Prévia ilustrativa de fluxo de análise de vendas</title>
+  <desc id="desc">Fluxo conceitual de preparação, consulta e apresentação de dados simulados.</desc>
+  <rect width="960" height="540" fill="#111a1b"/>
+  <rect x="36" y="34" width="888" height="472" rx="5" fill="#0c1314" stroke="#293736"/>
+  <text x="64" y="76" fill="#a7c7b5" font-family="monospace" font-size="10" letter-spacing="1.5">FLUXO ANALÍTICO DE PONTA A PONTA · CONCEITUAL</text>
+  <g fill="#121c1c" stroke="#30403d">
+    <rect x="65" y="145" width="224" height="248" rx="5"/><rect x="368" y="145" width="224" height="248" rx="5"/><rect x="671" y="145" width="224" height="248" rx="5"/>
+  </g>
+  <g fill="#182523" stroke="#465b4f"><rect x="89" y="168" width="48" height="48" rx="4"/><rect x="392" y="168" width="48" height="48" rx="4"/><rect x="695" y="168" width="48" height="48" rx="4"/></g>
+  <g fill="#a7c7b5"><text x="105" y="199" font-family="monospace" font-size="15">01</text><text x="408" y="199" font-family="monospace" font-size="15">02</text><text x="711" y="199" font-family="monospace" font-size="15">03</text></g>
+  <g fill="#d0dad4" font-family="sans-serif" font-size="17"><text x="89" y="253">Preparar</text><text x="392" y="253">Investigar</text><text x="695" y="253">Comunicar</text></g>
+  <g fill="#89978f" font-family="monospace" font-size="10"><text x="89" y="281">PYTHON · EXPLORAÇÃO</text><text x="392" y="281">SQL · CONSULTAS</text><text x="695" y="281">POWER BI · VISUAL</text></g>
+  <g stroke="#2e3e3a"><path d="M89 301h176M392 301h176M695 301h176"/></g>
+  <g fill="#8e9d95" font-family="sans-serif" font-size="12"><text x="89" y="329">Checagens e organização</text><text x="89" y="349">de registros simulados.</text><text x="392" y="329">Perguntas de negócio</text><text x="392" y="349">sobre dados de exemplo.</text><text x="695" y="329">Síntese visual do</text><text x="695" y="349">cenário fictício.</text></g>
+  <g fill="none" stroke="#71907d" stroke-width="1.5"><path d="M297 269h56m-8-7 8 7-8 7M600 269h56m-8-7 8 7-8 7"/></g>
+  <rect x="65" y="424" width="830" height="45" rx="3" fill="#14201e" stroke="#2d4138"/>
+  <text x="86" y="452" fill="#a7c7b5" font-family="monospace" font-size="10">CENÁRIO TOTALMENTE SIMULADO · SEM RESULTADOS REAIS OU DADOS DE CLIENTES</text>
+</svg>

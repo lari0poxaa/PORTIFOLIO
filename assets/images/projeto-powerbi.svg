@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Prévia ilustrativa de um painel de atendimento</title>
+  <desc id="desc">Interface escura com cartões de indicadores e gráfico de barras, sem dados reais.</desc>
+  <rect width="960" height="540" fill="#111a1b"/>
+  <rect x="34" y="30" width="892" height="478" rx="5" fill="#0c1314" stroke="#293736"/>
+  <rect x="34" y="30" width="892" height="49" rx="5" fill="#141e1f"/>
+  <circle cx="60" cy="55" r="7" fill="#a7c7b5"/>
+  <rect x="78" y="49" width="177" height="11" rx="3" fill="#c4d2cb" opacity=".8"/>
+  <rect x="761" y="48" width="130" height="14" rx="3" fill="#263533"/>
+  <text x="58" y="110" fill="#a7c7b5" font-family="monospace" font-size="12" letter-spacing="2">VISÃO GERAL · CENÁRIO DEMONSTRATIVO</text>
+  <g fill="#152020" stroke="#2b3a38">
+    <rect x="58" y="132" width="194" height="84" rx="4"/><rect x="267" y="132" width="194" height="84" rx="4"/>
+    <rect x="476" y="132" width="194" height="84" rx="4"/><rect x="685" y="132" width="215" height="84" rx="4"/>
+  </g>
+  <g fill="#788780" font-family="monospace" font-size="10"><text x="76" y="157">STATUS</text><text x="285" y="157">CANAIS</text><text x="494" y="157">PERÍODOS</text><text x="703" y="157">ACOMPANHAMENTO</text></g>
+  <g fill="#b9c9c0"><rect x="76" y="173" width="85" height="8" rx="2"/><rect x="285" y="173" width="94" height="8" rx="2"/><rect x="494" y="173" width="105" height="8" rx="2"/><rect x="703" y="173" width="116" height="8" rx="2"/></g>
+  <rect x="58" y="234" width="527" height="238" rx="4" fill="#111a1b" stroke="#2b3a38"/>
+  <rect x="605" y="234" width="295" height="238" rx="4" fill="#111a1b" stroke="#2b3a38"/>
+  <text x="78" y="264" fill="#c1cec7" font-family="sans-serif" font-size="15">Distribuição ilustrativa</text>
+  <g stroke="#293735" stroke-width="1"><path d="M80 310h480M80 355h480M80 400h480M80 445h480"/></g>
+  <g fill="#668273"><rect x="115" y="355" width="48" height="90" rx="2"/><rect x="200" y="326" width="48" height="119" rx="2"/><rect x="285" y="375" width="48" height="70" rx="2"/><rect x="370" y="300" width="48" height="145" rx="2"/><rect x="455" y="340" width="48" height="105" rx="2"/></g>
+  <g fill="#71817a" font-family="monospace" font-size="9"><text x="114" y="461">ETAPA A</text><text x="199" y="461">ETAPA B</text><text x="284" y="461">ETAPA C</text><text x="369" y="461">ETAPA D</text><text x="454" y="461">ETAPA E</text><text x="627" y="264">STATUS DO FLUXO</text></g>
+  <g fill="#263633"><rect x="628" y="287" width="238" height="9" rx="4"/><rect x="628" y="323" width="238" height="9" rx="4"/><rect x="628" y="359" width="238" height="9" rx="4"/><rect x="628" y="395" width="238" height="9" rx="4"/></g>
+  <g fill="#91b19e"><rect x="628" y="287" width="170" height="9" rx="4"/><rect x="628" y="323" width="124" height="9" rx="4"/><rect x="628" y="359" width="194" height="9" rx="4"/><rect x="628" y="395" width="90" height="9" rx="4"/></g>
+  <text x="628" y="443" fill="#71817a" font-family="monospace" font-size="9">ELEMENTOS VISUAIS ILUSTRATIVOS</text>
+</svg>

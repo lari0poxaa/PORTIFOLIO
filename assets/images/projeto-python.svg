@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Prévia ilustrativa de análise de qualidade em Python</title>
+  <desc id="desc">Painel de inspeção de campos e validações sobre dados fictícios.</desc>
+  <rect width="960" height="540" fill="#111a1b"/>
+  <rect x="36" y="34" width="888" height="472" rx="5" fill="#0c1314" stroke="#293736"/>
+  <rect x="36" y="34" width="888" height="48" rx="5" fill="#172121"/>
+  <text x="62" y="64" fill="#c5d2ca" font-family="monospace" font-size="12">PYTHON / PERFILAMENTO DE DADOS</text>
+  <rect x="59" y="106" width="379" height="365" rx="4" fill="#111a1b" stroke="#293736"/>
+  <text x="82" y="137" fill="#a7c7b5" font-family="monospace" font-size="10">ETAPAS DE VERIFICAÇÃO</text>
+  <g font-family="monospace" font-size="11">
+    <rect x="80" y="157" width="335" height="57" rx="3" fill="#15201f"/><circle cx="101" cy="185" r="9" fill="#496c58"/><path d="m97 185 3 3 6-7" fill="none" stroke="#d3e2d9" stroke-width="2"/><text x="123" y="181" fill="#c4d0ca">Inspeção de tipos</text><text x="123" y="197" fill="#78877f" font-size="9">estrutura e formato</text>
+    <rect x="80" y="228" width="335" height="57" rx="3" fill="#15201f"/><circle cx="101" cy="256" r="9" fill="#496c58"/><path d="m97 256 3 3 6-7" fill="none" stroke="#d3e2d9" stroke-width="2"/><text x="123" y="252" fill="#c4d0ca">Campos ausentes</text><text x="123" y="268" fill="#78877f" font-size="9">revisão de valores vazios</text>
+    <rect x="80" y="299" width="335" height="57" rx="3" fill="#15201f"/><circle cx="101" cy="327" r="9" fill="#496c58"/><path d="m97 327 3 3 6-7" fill="none" stroke="#d3e2d9" stroke-width="2"/><text x="123" y="323" fill="#c4d0ca">Duplicidades</text><text x="123" y="339" fill="#78877f" font-size="9">identificação para conferência</text>
+  </g>
+  <rect x="80" y="379" width="335" height="68" rx="3" fill="#0d1515" stroke="#293736"/>
+  <text x="98" y="405" fill="#78877f" font-family="monospace" font-size="9">BASE FICTÍCIA · RESULTADOS NÃO INFORMADOS</text>
+  <text x="98" y="427" fill="#a7c7b5" font-family="monospace" font-size="10">EXEMPLO DE PIPELINE, NÃO EXECUÇÃO REAL</text>
+  <rect x="466" y="106" width="434" height="365" rx="4" fill="#111a1b" stroke="#293736"/>
+  <text x="491" y="137" fill="#a7c7b5" font-family="monospace" font-size="10">AMOSTRA DE ESQUEMA (ILUSTRATIVA)</text>
+  <rect x="490" y="155" width="386" height="33" fill="#172120"/>
+  <g fill="#86958d" font-family="monospace" font-size="9"><text x="510" y="176">COLUNA</text><text x="668" y="176">TIPO</text><text x="781" y="176">VALIDAÇÃO</text></g>
+  <g stroke="#283735">
+    <path d="M490 188h386M490 232h386M490 276h386M490 320h386M490 364h386M490 408h386"/>
+  </g>
+  <g font-family="monospace" font-size="10">
+    <text x="510" y="216" fill="#c4d0ca">id_registro</text><text x="668" y="216" fill="#87968e">inteiro</text><text x="781" y="216" fill="#91b19e">chave</text>
+    <text x="510" y="260" fill="#c4d0ca">nome</text><text x="668" y="260" fill="#87968e">texto</text><text x="781" y="260" fill="#91b19e">presença</text>
+    <text x="510" y="304" fill="#c4d0ca">contato</text><text x="668" y="304" fill="#87968e">texto</text><text x="781" y="304" fill="#91b19e">formato</text>
+    <text x="510" y="348" fill="#c4d0ca">atualizado_em</text><text x="668" y="348" fill="#87968e">data</text><text x="781" y="348" fill="#91b19e">tipo</text>
+  </g>
+  <text x="491" y="441" fill="#74827c" font-family="monospace" font-size="9">VALIDAÇÕES CONCEITUAIS · SEM CADASTROS REAIS</text>
+</svg>
